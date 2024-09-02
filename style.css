@@ -1,0 +1,17 @@
+header {
+    background-color: black;
+}
+
+body {
+    background-color: aliceblue;
+    color: darkblue;
+}
+
+a {
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
